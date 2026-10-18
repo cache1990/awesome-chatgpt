@@ -175,6 +175,7 @@
 - [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
+- [Runi](https://github.com/OmniMindNB/ai-assistant-for-browsers) - Open-source AI browser sidebar assistant (BYOK): page Q&A, selection ask, auto-fill forms. Works with OpenAI-compatible and Anthropic APIs, data stays local.
 - [YouTube Summary by TubeSum](https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm) - Summarize YouTube videos.
 - [SwiftStyle AI](https://github.com/swiftstyleai/swiftstyleai) - An open-source Chrome extension that customizes content to match your unique style and brand voice.
 
